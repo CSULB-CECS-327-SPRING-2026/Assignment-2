@@ -1,0 +1,3 @@
+# stdlib only – no third-party packages required.
+# All modules used (socket, threading, json, queue, concurrent.futures,
+# struct, logging, argparse, statistics, csv) ship with CPython 3.9+.

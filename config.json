@@ -1,0 +1,14 @@
+{
+  "rpc_port": 9000,
+  "sensor_port": 9001,
+  "pubsub_port": 9002,
+  "thread_pool_size": 16,
+  "sensor_pool_size": 4,
+  "backlog": 128,
+  "reservation_ttl": 300,
+  "lots": [
+    {"id": "A", "capacity": 50},
+    {"id": "B", "capacity": 30},
+    {"id": "C", "capacity": 20}
+  ]
+}
